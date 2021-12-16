@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rubal Kaur
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Fullstack Web Development.
+- 🌱 I’m currently learning Fullstack Development.
 - 📫 My LinkedIn - https://www.linkedin.com/in/rubalkaur/
 - Email me at rubal1903@gmail.com
 
