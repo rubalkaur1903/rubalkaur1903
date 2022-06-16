@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Rubal Kaur
-- 👀 I’m interested in coding
+- 🧐 I’m interested in coding
 - 🌱 I’m currently learning Fullstack Development.
 - 📫 My LinkedIn - https://www.linkedin.com/in/rubalkaur/
-- Email me at rubal1903@gmail.com
+- 💼 My Portfolio - https://fancy-llama-ee380f.netlify.app/
+- 📧 My Email - rubal1903@gmail.com
 
 
 <!---
