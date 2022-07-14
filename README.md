@@ -2,7 +2,7 @@
 - 🧐 I’m interested in coding
 - 🌱 I’m currently learning Fullstack Development.
 - 📫 My LinkedIn - https://www.linkedin.com/in/rubalkaur/
-- 💼 My Portfolio - https://fancy-llama-ee380f.netlify.app/
+- 💼 My Portfolio - https://sage-sprite-891f9f.netlify.app/
 - 📧 My Email - rubal1903@gmail.com
 
 
