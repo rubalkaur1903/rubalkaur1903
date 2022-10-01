@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Rubal Kaur
-- 🧐 I’m interested in coding
-- 🌱 I’m currently learning Fullstack Development.
+- 🧐 I’m interested in coding and everything tech.
+- 🌱 I’m a Data Center Engineer and learning Fullstack Development in my free time.
 - 📫 My LinkedIn - https://www.linkedin.com/in/rubalkaur/
-- 💼 My Portfolio - https://sage-sprite-891f9f.netlify.app/
-- 📧 My Email - rubal1903@gmail.com
+- 📧 My Personal Email - rubalkaurkr@gmail.com
 
 
 <!---
